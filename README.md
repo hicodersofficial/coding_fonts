@@ -6,9 +6,7 @@ Here are some of the free and best coding fonts.
 
 ## [2. Fira code](https://fonts.google.com/specimen/Fira+Code)
 
-## [ Fira code iScript](https://github.com/kencrocken/FiraCodeiScript)
-
-## [3. Hack](https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip)
+## [3. Fira code iScript](https://github.com/kencrocken/FiraCodeiScript)
 
 ## [4. Anonymous Pro](https://fonts.google.com/specimen/Anonymous+Pro)
 
@@ -19,6 +17,8 @@ Here are some of the free and best coding fonts.
 ## [7. Ubuntu](https://fonts.google.com/specimen/Ubuntu?query=Ubuntu)
 
 ## [8. Space Mono](https://fonts.google.com/specimen/Space+Mono?query=Space+Mono)
+
+## [9. Hack](https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip)
 
 Follow [@hi.coders](https://instagram.com/hi.coders)
 
